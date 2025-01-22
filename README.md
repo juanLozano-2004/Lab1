@@ -26,3 +26,5 @@ juan.lcardenas@mail.escuelaing.edu.co con el comando:
 git config --global user.email "juan.lcardenas@mail.escuelaing.edu.co"
 ![image](img/punto8.png)
 
+## Noveno punto
+Se actualizo y se reviso en github donde esta al día todos los cambios establecidos
