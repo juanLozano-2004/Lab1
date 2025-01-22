@@ -19,3 +19,10 @@ Git commit -m: “Mensaje”: Envía los cambios al repositorio junto con un men
 
 ## Septimo punto
 ![image](img/punto7.png)
+
+## Octavo punto
+Se agrega el correo
+juan.lcardenas@mail.escuelaing.edu.co con el comando:
+git config --global user.email "juan.lcardenas@mail.escuelaing.edu.co"
+![image](img/punto8.png)
+
