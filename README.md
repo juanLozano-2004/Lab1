@@ -28,3 +28,10 @@ git config --global user.email "juan.lcardenas@mail.escuelaing.edu.co"
 
 ## Noveno punto
 Se actualizo y se reviso en github donde esta al día todos los cambios establecidos
+
+
+## Inicio de la segunda parte
+
+### Primer punto
+Owner: Sergio Silva
+Collaborator: Juan Lozano
