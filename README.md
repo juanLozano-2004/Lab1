@@ -35,3 +35,20 @@ Se actualizo y se reviso en github donde esta al día todos los cambios establec
 ### Primer punto
 Owner: Sergio Silva
 Collaborator: Juan Lozano
+
+### Segundo punto
+EL owner realizo la incitación que se acepto.
+![image](img/Aceptacion.png)
+
+### Tercer punto
+Se acepto la incitación por correo
+
+### Cuato punto
+Se acepto y se unio al repositorio
+![image](img/aceptacionrepo.png)
+
+### Quinto punto
+Se unio el Collaborator al repositorio y se edita al mismo tiempo
+
+### Sexto punto
+AL editar al mismo tiempo paso que 
